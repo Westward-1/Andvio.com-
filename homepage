@@ -1,0 +1,16 @@
+Paste this code as your starter homepage:
+
+html
+Copy
+Edit
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Andvio</title>
+</head>
+<body>
+  <h1>Welcome to Andvio</h1>
+  <p>This site is powered by GitHub Pages.</p>
+</body>
+</html>
